@@ -1,0 +1,27 @@
+Inside your main directory, (MinecraftMod-MoReeds) create a folder called resources
+add folders, until you get /resources/mods/MoRe/lang/en_US.xml
+The jars folder is not needed, aswell as its content
+
+So, in the end you will have:
+
+MinecraftMod-MoReeds
+  - Common
+    - PlayPrey
+      - MoReeds
+        - MoReeds.java
+        - Blocks
+          - ModBlocks.java
+        - Items
+          - ModItems.java
+  - Resources
+    - Mods
+      - MoReeds
+        - Lang
+          - en_US.xml
+        - Textures
+          - Blocks
+            - NewBlock.png
+          - Items
+            - NewItem.png
+  - License
+  - Readme
